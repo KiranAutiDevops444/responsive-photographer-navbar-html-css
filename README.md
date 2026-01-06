@@ -10,3 +10,4 @@ This project demonstrates a clean and responsive menu bar built using only HTML 
 ## Technologies Used
 - HTML5
 - CSS3
+- Responsive
